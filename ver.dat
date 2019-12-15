@@ -1,0 +1,5 @@
+{
+   "ver" : "1.0.0.0",
+   "url" : [ "http://xxx.com", "http://xxx2.com" ],
+   "info" : "更新隧道配置"
+}
