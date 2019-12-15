@@ -1,5 +1,5 @@
 {
-   "ver" : "1.0.0.0",
-   "url" : [ "http://xxx.com", "http://xxx2.com" ],
-   "info" : "更新隧道配置"
+   "ver" : "1.0.1.0",
+   "url" : [ "https://soft1024.oss-cn-hangzhou.aliyuncs.com/GreenNET/GreenNET%20v1.0.1.0.rar", "https://github.com/codejam1024/GreenNET/archive/1.0.1.0.zip" ],
+   "info" : "修复开机自启动"
 }
