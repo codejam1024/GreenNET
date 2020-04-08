@@ -1,5 +1,5 @@
 {
-   "ver" : "1.0.1.0",
-   "url" : [ "https://soft1024.oss-cn-hangzhou.aliyuncs.com/GreenNET/GreenNET%20v1.0.2.0.zip", "https://dwz.cn/Nxs5yhgz" ],
+   "ver" : "1.0.2.0",
+   "url" : [ "https://soft1024.oss-cn-hangzhou.aliyuncs.com/GreenNET/GreenNET%20v1.0.2.0.zip?v=2", "https://dwz.cn/Nxs5yhgz" ],
    "info" : "支持32位系统下使用，优化配置同步速度，新增导出v2配置菜单"
 }
