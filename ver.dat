@@ -1,5 +1,5 @@
 {
-   "ver" : "1.0.3.0",
-   "url" : [ "https://soft1024.oss-cn-hangzhou.aliyuncs.com/GreenNET/GreenNET%20v1.0.3.7z", "https://url.cn/5jPtZ0A" ],
+   "ver" : "1.0.4.0",
+   "url" : [ "https://soft1024.oss-cn-hangzhou.aliyuncs.com/GreenNET/GreenNET%20v1.0.4.7z", "https://url.cn/5qYrRS8" ],
    "info" : "优化配置同步速度，修复开机启动的取消"
 }
