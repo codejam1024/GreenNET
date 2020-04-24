@@ -1,5 +1,5 @@
 {
-   "ver" : "1.0.4.0",
-   "url" : [ "https://soft1024.oss-cn-hangzhou.aliyuncs.com/GreenNET/GreenNET%20v1.0.4.7z", "https://url.cn/5qYrRS8" ],
-   "info" : "优化配置同步速度，修复开机启动的取消"
+   "ver" : "1.0.5.0",
+   "url" : [ "https://soft1024.oss-cn-hangzhou.aliyuncs.com/GreenNET/GreenNET%20v1.0.5.7z", "https://test-1251503461.cos.ap-chengdu.myqcloud.com/GreenNET%20v1.0.5.7z" ],
+   "info" : "修复最新封锁无法同步问题"
 }
